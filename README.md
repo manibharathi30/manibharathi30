@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @manibharathi30
-- 👀 I’m interested in Python,Spark,SQL,Unix,Hadoop
-- 🌱 I’m currently learning Pyspark,NodeJs
-- 💞️ I’m looking to collaborate on Advance skillset on python
+- 👋 Hi, I’m @manibharathi30 
+- 💻 I'm Software Engineer
+- 👀 I’m interested in Python,Java,Problem Solving,DSA,SQL,Unix,Hadoop
+- 🌱 I’m currently learning REST API
+- 💞️ I’m looking to collaborate to Advance skillset on python & Java
 - 📫 How to reach me manibhatathi3002@gmail.com
 
 <!---
